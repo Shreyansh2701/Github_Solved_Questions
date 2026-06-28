@@ -11,10 +11,9 @@ class Solution:
                     continue
                 left = j+1
                 right = n - 1
-                sum1 = target - nums[i] - nums[j]
                 while left < right:
-                    total = nums[left] + nums[right]
-                    if total == sum1:
+                    total = nums[i] + nums[j] + nums[left] + nums[right]
+                    if total == target:
                         res.append([nums[i] , nums[j] , nums[left] , nums[right]])
                         left += 1
                         right -= 1
@@ -22,7 +21,7 @@ class Solution:
                             left += 1
                         while right >= 0 and nums[right] == nums[right+1]:
                             right -= 1
-                    elif total > sum1:
+                    elif total > target:
                         right -= 1
                     else:
                         left += 1
