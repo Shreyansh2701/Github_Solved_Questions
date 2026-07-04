@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0075-sort-colors) |
+| [0844-backspace-string-compare](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0042-trapping-rain-water) |
+| [0844-backspace-string-compare](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -66,8 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0844-backspace-string-compare](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0011-container-with-most-water) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
