@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0844-backspace-string-compare](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -103,4 +104,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
