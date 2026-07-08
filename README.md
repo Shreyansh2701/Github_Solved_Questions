@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0844-backspace-string-compare](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0876-middle-of-the-linked-list) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0904-fruit-into-baskets) |
 ## String
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
