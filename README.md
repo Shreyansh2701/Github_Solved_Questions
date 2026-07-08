@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0209-minimum-size-subarray-sum) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0202-happy-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Shreyansh2701/Github_Solved_Questions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
